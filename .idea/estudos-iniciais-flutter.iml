@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/calculadora_imc/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/calculadora_imc/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/calculadora_imc/build" />
+      <excludeFolder url="file://$MODULE_DIR$/contador/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/contador/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/contador/build" />
+      <excludeFolder url="file://$MODULE_DIR$/conversor_de_moedas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/conversor_de_moedas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/conversor_de_moedas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lista-de-afazeres/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lista-de-afazeres/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lista-de-afazeres/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lista_tarefas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lista_tarefas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lista_tarefas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/praticando_mobx/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/praticando_mobx/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/praticando_mobx/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
