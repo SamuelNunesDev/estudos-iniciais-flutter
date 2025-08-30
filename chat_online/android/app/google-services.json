@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "703106098084",
+    "project_id": "chat-online-ffc6e",
+    "storage_bucket": "chat-online-ffc6e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703106098084:android:59349bebc5796c4bd59731",
+        "android_client_info": {
+          "package_name": "com.samuel.chatonline.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703106098084-ddl1lpc15sclhfohufbgneba54cm9eb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samuel.chatonline.chat_online",
+            "certificate_hash": "185fa428e3b0c8cbf1d0a0cf4b3ba189b6ca7dd7"
+          }
+        },
+        {
+          "client_id": "703106098084-fgg3kfbtdfgnb2mnmd00vnbbbco9ags2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5wV-3vgQxxM-mjA1Ztx5fBBVpXXHc8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703106098084-fgg3kfbtdfgnb2mnmd00vnbbbco9ags2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

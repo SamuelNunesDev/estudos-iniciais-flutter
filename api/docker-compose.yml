@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    container_name: api-apps-flutter
+    tty: true
+    env_file:
+      - .env
+    ports:
+      - '8080:80'
+    command: sh -c "service apache2 restart && chmod -R ugo+rw storage && tail -f /dev/null"
+    restart: always
+    volumes:
+      - './:/var/www/html'
